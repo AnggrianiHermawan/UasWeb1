@@ -10,7 +10,7 @@
 
 ### 1.1. Membuat folder project
 
-- Membuat folder `katalog_buku` di dalam `htdocs` XAMPP.   
+- Membuat folder `KATALOG_BUKU` di dalam `htdocs` XAMPP.   
 - Menambahkan file baru 
 <img width="127" height="208" alt="image" src="https://github.com/user-attachments/assets/769dffee-fc78-41e0-b86f-738f38f87daa" />
 
@@ -338,13 +338,13 @@ $habis = $stmt->fetchColumn();
 ## 5. index.php - Halaman Utama Katalog Buku
 
 Fitur:
-• CRUD Buku (Modal Bootstrap 5)
-• Search judul/pengarang (real-time)
-• Pagination (5 buku/halaman)
-• Nomor urut virtual (#1,#2,... page 1-2)
-• Edit inline (data auto-fill modal)
-• Hapus konfirmasi
-• Responsive + badge stok (🟢/🔴)
+- CRUD Buku (Modal Bootstrap 5)
+- Search judul/pengarang (real-time)
+- Pagination (5 buku/halaman)
+- Nomor urut virtual (#1,#2,... page 1-2)
+- Edit inline (data auto-fill modal)
+- Hapus konfirmasi
+- Responsive + badge stok (🟢/🔴)
 
 Tech: PHP PDO + Bootstrap 5 + JS Vanilla
 Usage: `require config.php → $pdo` → semua fitur work!
@@ -861,6 +861,8 @@ if (!isset($_SESSION['user_id'])) {
 ```
 <img width="1920" height="1080" alt="Cuplikan layar 2026-01-09 130435" src="https://github.com/user-attachments/assets/523fc1e3-d108-4c22-bbc7-68cfc09d4449" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e150859e-0ef9-41e5-9a7f-8924b6ddf40c" />
+cetak pdf
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d699236f-99b1-4d66-9b1a-1bb351f88948" />
 
 ---
 
