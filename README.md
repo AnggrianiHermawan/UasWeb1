@@ -4,6 +4,11 @@
 - **NIM**   : _312410175_  
 - **Kelas** : _TI.24.A2_
 
+### link youtube: https://youtu.be/5a4z-PUG5vA?si=KTktu3Sv7dmX43vg
+### link demo: http://localhost/katalog_buku/login.php
+                username: admin
+                password: admin123
+
 ---
 
 ## 1. Persiapan Project
